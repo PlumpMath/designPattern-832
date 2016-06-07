@@ -5,8 +5,8 @@ package com.setin.ch02;
  */
 public class Test {
 
-    @org.junit.Test
-    public void Test() {
+
+    public static void main(String[] args) {
         Person p = new Person();
         p.setRole(new Driver());
         p.doIt();
