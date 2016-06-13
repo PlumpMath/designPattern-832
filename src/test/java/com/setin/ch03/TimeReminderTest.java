@@ -1,7 +1,4 @@
-package com.setin.ch02.ch03;
-
-import com.setin.ch03.MockTimeProvider;
-import com.setin.ch03.TimeReminder2;
+package com.setin.ch03;
 
 /**
  * Created by 두석 on 2016-06-07.
